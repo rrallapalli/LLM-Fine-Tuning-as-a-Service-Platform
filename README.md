@@ -20,6 +20,8 @@ The platform concept demonstrates:
 - Adapter lifecycle management
 - Simplified AI platform UX concepts
 
+Read the Solution Brief at [FineTuneIt - LLM Fine-Tuning Made Simple](/docs/FineTuneIt%20-%20Solution%20Presentation%20-%20Rakesh%20Rallapalli.pdf)
+
 ---
 
 ## 🎯 Business Problem
